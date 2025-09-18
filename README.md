@@ -48,7 +48,7 @@ In recursive prediction, the model predicts one future value at a time. Each new
 
 ## Results Visualization
 
-![Recursive_CNN+RNN_Prediction](Recursive_CNN+RNN_Prediction)
+![Recursive_CNN+RNN_Prediction](Recursive_CNN+RNN_Prediction.png)
 
 - **Gray**: Noisy input signal
 - **Black**: True sine signal
