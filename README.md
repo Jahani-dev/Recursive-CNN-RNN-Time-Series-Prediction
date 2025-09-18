@@ -74,6 +74,4 @@ pip install numpy matplotlib tensorflow scikit-learn
 
 Sahar Jahani
 
-GitHub Profile
-
 
