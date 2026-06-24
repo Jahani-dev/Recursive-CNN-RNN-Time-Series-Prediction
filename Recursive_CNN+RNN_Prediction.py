@@ -42,7 +42,7 @@ split = int(0.7 * len(true))
 trainX, trainy = X[:split], y[:split]
 testX, testy = X[split:], y[split:]
 
-# Define LSTM model
+# Define model
 model = Sequential()
 model.add(Conv1D(filters=32, kernel_size=5, activation='relu', input_shape=(window_size, 1)))
 model.add(MaxPooling1D(pool_size=2))
